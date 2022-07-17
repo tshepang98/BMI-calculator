@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding:10px;
+    background-color: grey;
+}
+.title{
+    color: black;
+    font-size: 30px;
+    margin: 0;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display:flex;
+}
+nav a{
+    text-decoration: none;
+    padding: 0 1em;
+    color: black;
+}

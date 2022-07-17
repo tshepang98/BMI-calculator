@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+.HEAD{
+    margin-left: 10em;
+}
+
+.formLogin{
+    padding-left: 20em;
+    padding-top: 10em;
+}
+.formLogin label{
+    display: block;
+    float: left;
+    width:10em;
+    margin-right: 1em;
+    text-align: right;
+    margin: 10px;
+    
+}
+.formLogin input{
+    padding: 10px;
+    margin-top: 10px;
+}
+.submit-btn{
+float: none;
+width:auto;
+border: 0 none #fff;
+padding-left: 15em;
+max-width: 100%;
+padding-top: 2em;
+background-color: gray;
+margin-left: 18em;
+}
+.formLogin .submit-btn{
+    height: 3em;
+    width:  8em;
+    padding: 1em;
+    border-radius:10px ;
+    font-size: 14px;
+}
